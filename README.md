@@ -13,3 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https://linktr.ee/Mistyitz 
 - ⚡ Fun fact:I'mm a furry LOL
 -->
+
+<p align="center">
+  [![GitHub Streak](https://demolab.com)](https://git.io/streak-stats)
+</p>
