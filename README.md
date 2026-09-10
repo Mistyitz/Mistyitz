@@ -14,6 +14,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact:I'mm a furry LOL
 -->
 
-<p align="center">
-  [![GitHub Streak](https://demolab.com)](https://git.io/streak-stats)
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Mistyitz&theme=transparent&hide_border=true&timezone=est%20&short_numbers=true&exclude_days=Sun%2CSat&type=png)](https://git.io/streak-stats)
+
